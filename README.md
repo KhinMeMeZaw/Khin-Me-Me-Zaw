@@ -13,6 +13,13 @@ With experience in **business development**, **market research**, and **data ana
 Currently pursuing my **Master’s in Digital Transformation Technology** at **Mae Fah Luang University**, my thesis focuses on:
 > *"Predicting Client Potential in B2B IT Sales using Machine Learning and Explainable AI (XAI) methods such as LIME, SHAP, PDP, and ICE."*
 
+# Education
+**Master of Science in Digital Transformation Technology**  
+Mae Fah Luang University (2024 – Present)
+
+**Bachelor of Computer Science in Business Information Systems**  
+University of Information Technology (2014 – 2019)
+
 # Skills 
 **Data Analytics:** Python (Pandas, NumPy, Scikit-learn), SQL, Excel, Power BI  
 **Visualization:** Matplotlib, Seaborn, Power BI
@@ -30,6 +37,12 @@ Currently pursuing my **Master’s in Digital Transformation Technology** at **M
 
 🧾 Techniques: Data Cleaning, Encoding, Normalization, SMOTE, ADASYN  
 📈 Tools: Python, PyCaret, Matplotlib  
-🔍 Results: Identified “Budget in USD” and “Engagement Level” as key predictors.
+
+
+# Let's Connect
+📧 Email: kmezaw1998@gmail.com  
+🌐 [LinkedIn](#)  
+💻 [GitHub Projects](#)
+
 
 
