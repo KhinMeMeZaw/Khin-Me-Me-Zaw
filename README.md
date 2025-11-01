@@ -3,7 +3,7 @@
 🌏 Based in Chiang Rai, Thailand | 💼 Open to Remote or Part-time Roles
 
 📧 kmezaw1998@gmail.com  
-🔗 [LinkedIn]([www.linkedin.com/in/khin-me-me-zaw-a8356317b](https://www.linkedin.com/in/khin-me-me-zaw-a8356317b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) • [GitHub]()
+🔗 [https://www.linkedin.com/in/khin-me-me-zaw-a8356317b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]() • [GitHub]()
 
 
 # About Me 
