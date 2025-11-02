@@ -3,7 +3,7 @@
 Based in Chiang Rai, Thailand | Open to Remote or Part-time Roles
 
 📧 kmezaw1998@gmail.com  
-🔗 [LinkedIn]() • [GitHub]()
+🔗 [LinkedIn](https://www.linkedin.com/in/khin-me-me-zaw-a8356317b/) • [GitHub]()
 
 
 # About Me 
@@ -41,7 +41,7 @@ Tools: Python, PyCaret, Matplotlib
 
 # Let's Connect
 📧 Email: kmezaw1998@gmail.com  
-🌐 [LinkedIn](#)  
+🌐 [LinkedIn](https://www.linkedin.com/in/khin-me-me-zaw-a8356317b/)  
 💻 [GitHub Projects](#)
 
 
