@@ -42,7 +42,7 @@ Tools: Python, PyCaret, Matplotlib
 # Let's Connect
 📧 Email: kmezaw1998@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/khin-me-me-zaw-a8356317b/)  
-💻 [GitHub Projects](#)
+💻 [GitHub Projects](https://github.com/KhinMeMeZaw/client-potential-prediction-XAI)
 
 
 
