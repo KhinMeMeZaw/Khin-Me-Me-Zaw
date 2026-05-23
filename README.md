@@ -45,7 +45,9 @@ The project reflects the kind of analysis a data analyst would perform for a ret
 # Let's Connect
 📧 Email: kmezaw1998@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/khin-me-me-zaw-a8356317b/)  
-💻 [GitHub Projects](https://github.com/KhinMeMeZaw/client-potential-prediction-XAI)(https://github.com/KhinMeMeZaw/sql-retail-analysis)
+💻 [GitHub Projects](https://github.com/KhinMeMeZaw/client-potential-prediction-XAI)
+ [GitHub Projects](https://github.com/KhinMeMeZaw/sql-retail-analysis)
+
 
 
 
