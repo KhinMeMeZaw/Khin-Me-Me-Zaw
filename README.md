@@ -38,11 +38,14 @@ University of Information Technology (2014 – 2019)
 Techniques: Data Cleaning, Encoding, Normalization, SMOTE, ADASYN  
 Tools: Python, PyCaret, Matplotlib  
 
+## Retail Sales Business Analysis Using SQL (https://github.com/KhinMeMeZaw/sql-retail-analysis)
+This project demonstrates a full SQL-based business analysis workflow using real-world retail transaction data. It answers 10 meaningful business questions using SQL queries — covering revenue, product performance, customer behavior, and segmentation — all within a Google Colab environment using Python and SQLite.
+The project reflects the kind of analysis a data analyst would perform for a retail or e-commerce business to support data-driven decision making. 
 
 # Let's Connect
 📧 Email: kmezaw1998@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/khin-me-me-zaw-a8356317b/)  
-💻 [GitHub Projects](https://github.com/KhinMeMeZaw/client-potential-prediction-XAI)
+💻 [GitHub Projects](https://github.com/KhinMeMeZaw/client-potential-prediction-XAI)(https://github.com/KhinMeMeZaw/sql-retail-analysis)
 
 
 
