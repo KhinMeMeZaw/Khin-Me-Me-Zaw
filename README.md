@@ -29,7 +29,7 @@ University of Information Technology (2014 – 2019)
 **Tools:** Google Colab, PyCaret, Git, MS Office Suite
 
 # Projects
-####  Client Potential Prediction using Machine Learning
+####  Client Potential Prediction using Machine Learning (https://github.com/KhinMeMeZaw/client-potential-prediction-XAI)
 - Developed a **multi-class classification model** to predict client potential levels (High, Medium, Low, None) for a B2B IT company.
 - Applied **Machine Learning Algorithms such as Gradient Boosting, LightGBM, and Random Forest, etc...** achieving **~75% accuracy**.
 - Used **Explainable AI** methods (Feature Importance, LIME, SHAP, PDP, ICE) to interpret model decisions.
